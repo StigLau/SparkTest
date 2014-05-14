@@ -2,6 +2,7 @@ Java Spark PoC
 --------------
 
 Simple, minimal Proof Of Concept of [http://www.sparkjava.com], a Sinatra/Scalatra clone.
+Requires Java 8, and showcases some of the Java 8 features
 
 Pros / Cons
 -----------
